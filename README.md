@@ -6,6 +6,8 @@ Turns Contacts form a LDAP-Server into VCards and uploads them to a Baikal CardD
   3. Go to "YOUR_BAIKAL_SERVER.com/ and setup Baikal with the Installation Wizard
   4. In the Baikal Web Admin under Database settings connect your MySQL with your credentials
   5. Create the upload_contacts.sh, delete_contacts.sh, sync_contacts.sh and LDAP-to-VCard.py scripts and adjust the paths
+  6. Connect to the Server with your set credentials
+
 ## Baikal Installation on Ubuntu Server 24.04 LTS
 
 System Update
