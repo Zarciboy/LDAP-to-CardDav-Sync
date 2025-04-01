@@ -1,5 +1,5 @@
 # LDAP-to-CardDav-Sync
-# LDAP-to-CardDav
+
 Turns Contacts form a LDAP-Server into VCards and uploads them to a Baikal CardDav-Server.
   1. Install Baikal
   2. Install and configure MySQL
